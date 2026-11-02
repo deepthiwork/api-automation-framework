@@ -181,8 +181,7 @@ To review a CI run:
 For freelance API testing and automation inquiries, add your preferred professional contact details here.
 
 - **GitHub:** [deepthiwork](https://github.com/deepthiwork)
-- **Email:** Add your professional email address
-- **Freelance profile:** Add your Upwork, Fiverr, or other portfolio link
+- **Email:** lenoloq22@gmail.com
 
 ---
 
